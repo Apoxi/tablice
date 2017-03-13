@@ -16,5 +16,9 @@ int main()
         v.push_back(i+1);
         cout << "v[" << i << "]=" << v[i] << endl;
     }
+    string wyraz = "Janek";
+    for (int i = 0; i <6; i++){
+        cout << "wyraz[" << i << "]=" << wyraz[i] << endl;
+    }
     return 0;
 }
