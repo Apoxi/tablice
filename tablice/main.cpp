@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <vector>
 using namespace std;
 
 int main()
@@ -11,6 +11,10 @@ int main()
         tab[i] = i+1;
         cout << "tab[" << i << "]=" << tab[i] << endl;
     }
-
+    vector <int> v;
+    for (int i = 0; i <6; i++){
+        v.push_back(i+1);
+        cout << "v[" << i << "]=" << v[i] << endl;
+    }
     return 0;
 }

@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1489424139 source:c:\users\admin\desktop\tablice\tablice\tablice\main.cpp
+1489425948 source:c:\users\admin\desktop\tablice\tablice\tablice\main.cpp
 	<iostream>
+	<vector>
 
